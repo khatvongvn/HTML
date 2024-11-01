@@ -4,7 +4,13 @@ git commit -m "git test commit"
 git push -u origin main
 
 
-git checkout -b main
-git push -u origin main
+git checkout -b Bai1
+git push -u origin Bai1
+
 git branch
 git push -u origin master
+
+
+git add .
+git commit -m "git test commit 2"
+git push -u origin Bai1
